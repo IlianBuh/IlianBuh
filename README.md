@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a freshman in Belarusian State University of Informatics and Radioelectronics.
 <!--
 **IlianBuh/IlianBuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
