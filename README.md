@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a freshman in Belarusian State University of Informatics and Radioelectronics.
 
-<a href="https://ru.wikipedia.org/wiki/HTML"><img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw2H4qDcOBsYQBNBDxKAXgV8&ust=1718176263896000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjKlcD_0oYDFQAAAAAdAAAAABAE.png" alt = "html" width="100" height="100"></a>
+<a href="https://ru.wikipedia.org/wiki/HTML" target="_blank"><img src = "https://en.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg" alt = "html" width="100" height="100"></a>
 <!--
 **IlianBuh/IlianBuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
