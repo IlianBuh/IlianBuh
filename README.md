@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am a freshman in Belarusian State University of Informatics and Radioelectronics.
-<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw2H4qDcOBsYQBNBDxKAXgV8&ust=1718176263896000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjKlcD_0oYDFQAAAAAdAAAAABAE" alt = "html" width="100" height="100">
+
+<img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHTML&psig=AOvVaw2H4qDcOBsYQBNBDxKAXgV8&ust=1718176263896000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjKlcD_0oYDFQAAAAAdAAAAABAE.jpg" alt = "html" width="100" height="100">
 <!--
 **IlianBuh/IlianBuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
