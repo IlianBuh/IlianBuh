@@ -2,7 +2,7 @@
 I am a freshman in Belarusian State University of Informatics and Radioelectronics.
 
 <a href="https://ru.wikipedia.org/wiki/HTML" target="_parent">
-<img src = "https://en.wikipedia.org/wiki/File:HTML5_logo_and_wordmark.svg" alt = "html" width="100" height="100"></a>
+<img src = "https://en.wikipedia.org/wiki/HTML5_logo_and_wordmark.svg" alt = "html" width="100" height="100"></a>
 <!--
 **IlianBuh/IlianBuh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
