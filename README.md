@@ -27,7 +27,6 @@ A **Golang-based authentication microservice** with:
 
 ### **📁 File Manager**  
 A **remote file storage system** with:  
-- **Client-server architecture**  
 - **REST API (GET, PUT, DELETE, POST)** for client interaction  
 - **gRPC** for internal service communication  
 - **Gateway service** as an entry point  
