@@ -32,3 +32,14 @@ A **remote file storage system** with:
 - **Gateway service** as an entry point  
 
 🔍 **Looking for opportunities as a Golang intern/junior developer!**  
+
+<details>
+  <summary>📊 LeetCode stats</summary>
+  <a href="https://leetcode.com/u/ilian_buh/">
+    <br/>
+    <picture>
+        <source srcset="https://leetcard.jacoblin.cool/ilian_buh?theme=dark&font=IBM%20Plex%20Serif" media="(prefers-color-scheme: light)">
+        <img src="https://leetcard.jacoblin.cool/ilian_buh?theme=dark&font=IBM%20Plex%20Serif" alt="leet-code-stats">
+    </picture>
+  </a>
+</details>
