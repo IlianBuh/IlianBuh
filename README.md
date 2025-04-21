@@ -1,45 +1,54 @@
-# **Ilian Buhovec**  
-### **Computer Science Enthusiast**  
+<h2 align="left">👋 Hi there! I'm Ilian, a passionate Golang developer currently pursuing a Bachelor's degree in Software Engineering. I have a strong interest in backend development, distributed systems, and efficient software solutions.</h2>
 
-👋 Hi there! I'm Ilian, a passionate **Golang developer** currently pursuing a Bachelor's degree in **Software Engineering** at BSUIR. I have a strong interest in backend development, distributed systems, and efficient software solutions.  
+###
 
-## **🎓 Education**  
-**Belarusian State University of Informatics and Radioelectronics (BSUIR)**  
-- **Bachelor’s in Software Engineering** (2023–2027)  
-- Focus: **Computer Systems & Networks, Backend Development**
-  
-## **🛠️ Technical Skills**  
-- **Languages:** Golang, C17, x86 ASM, SQL, JavaScript, TypeScript  
-- **Backend:** Microservices, REST/gRPC, Protobuf, JWT  
-- **Databases:** SQL and NoSQL DBMS  
-- **DevOps & Tools:** Git, Docker
-- **Networking:** HTTP, TCP/IP, UDP, SOAP, GraphQL
-- **Frontend (Basic):** HTML, CSS, Angular  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IlianBuh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=IlianBuh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-## **🚀 Projects**  
+###
 
-### **🔐 SSO Service**  
-A **Golang-based authentication microservice** with:  
-- **gRPC & Protobuf** for API contracts  
-- **JWT tokens** for secure access  
-- **SQLite** for user data storage  
-- Two components: **Auth (registration/login)** and **UserInfo (user data retrieval)**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+</div>
 
-### **📁 File Manager**  
-A **remote file storage system** with:  
-- **REST API (GET, PUT, DELETE, POST)** for client interaction  
-- **gRPC** for internal service communication  
-- **Gateway service** as an entry point  
+###
 
-🔍 **Looking for opportunities as a Golang intern/junior developer!**  
+<br clear="both">
 
-<details>
-  <summary>📊 LeetCode stats</summary>
-  <a href="https://leetcode.com/u/ilian_buh/">
-    <br/>
-    <picture>
-        <source srcset="https://leetcard.jacoblin.cool/ilian_buh?theme=dark&font=IBM%20Plex%20Serif" media="(prefers-color-scheme: light)">
-        <img src="https://leetcard.jacoblin.cool/ilian_buh?theme=dark&font=IBM%20Plex%20Serif" alt="leet-code-stats">
-    </picture>
-  </a>
-</details>
+<img src="https://raw.githubusercontent.com/IlianBuh/IlianBuh/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/IlianBuh/IlianBuh/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IlianBuh/IlianBuh/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IlianBuh/IlianBuh/output/pacman-contribution-graph.svg">
+</picture>
+
+###
