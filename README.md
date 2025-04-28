@@ -22,3 +22,14 @@
 <img src="https://raw.githubusercontent.com/IlianBuh/IlianBuh/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<details>
+  <summary>📊 LeetCode stats</summary>
+  <a href="https://leetcode.com/u/ilian_buh/">
+    <br/>
+    <picture>
+        <source srcset="https://leetcard.jacoblin.cool/ilian_buh?theme=dark&font=IBM%20Plex%20Serif" media="(prefers-color-scheme: light)">
+        <img src="https://leetcard.jacoblin.cool/ilian_buh?theme=dark&font=IBM%20Plex%20Serif" alt="leet-code-stats">
+    </picture>
+  </a>
+</details>
